@@ -1,0 +1,11 @@
+.custom-primary-color: {
+	color: blue;
+}
+
+.custom-secondary-color: {
+	color: grey;
+}
+
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+}
